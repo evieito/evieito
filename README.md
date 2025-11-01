@@ -33,7 +33,7 @@ Continuously developing my knowledge in the development and data analysis 🧠.
 - Writing and communication skills ✅
 - Information skills ✅
 
-### Segundo Year 🚧
+### Second Year 🚧
 - Automata theory and compilers 🚧
 - Data Base 🚧
 - Discrete mathematics 🚧
