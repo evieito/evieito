@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 Right now I'm studying at the University Carlos III (UC3M) in Madrid. I'm doing de Data Science Enigneering Degree 🎓. 
-Meanwhile, I recently pass the Piscine at 42 Madrid 🖥, and I'm doing the Inner Core Course, to imrpove in my programming abilities and to learn more languages.
+Meanwhile, I recently passed the Piscine at 42 Madrid 🖥, and I'm doing the Inner Core Course, to improve in my programming abilities and to learn more languages.
 Continuously developing my knowledge in the development and data analysis 🧠.
 
 ## 🖱 Languages And Tools
