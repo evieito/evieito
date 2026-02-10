@@ -34,11 +34,11 @@ Continuously developing my knowledge in the development and data analysis 🧠.
 - Information skills ✅
 
 ### Second Year 🚧
-- Automata theory and compilers 🚧
-- Data Base 🚧
-- Discrete mathematics 🚧
-- Signals and Systems 🚧
-- Statistical Learning 🚧
+- Automata theory and compilers ✅
+- Data Base ✅
+- Discrete mathematics ✅
+- Signals and Systems ✅
+- Statistical Learning ✅
 
 ## 💼 42 Madrid
 
@@ -46,6 +46,8 @@ Continuously developing my knowledge in the development and data analysis 🧠.
 - ft_printf ✅
 - get_next_line ✅
 - born2beroot ✅
+- push_swap ✅
+- Exam Rank 02 ✅
 
 ## 🔊 Contacte Me!
 
