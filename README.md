@@ -11,6 +11,10 @@ Continuously developing my knowledge in the development and data analysis 🧠.
 - R
 - C
 - MySQL
+- MongoDB
+- Neo4j
+- Weka
+- JFlap
 
 ## 📊 Studies
 
