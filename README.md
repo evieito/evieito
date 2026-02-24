@@ -39,6 +39,11 @@ Continuously developing my knowledge in the development and data analysis 🧠.
 - Discrete mathematics ✅
 - Signals and Systems ✅
 - Statistical Learning ✅
+- Data protection & cybersecurity 🚧
+- Machine learning I 🚧
+- Numerical methods 🚧
+- Predictive Modeling 🚧
+- Statistical Signal Processing 🚧
 
 ## 💼 42 Madrid
 
@@ -48,6 +53,17 @@ Continuously developing my knowledge in the development and data analysis 🧠.
 - born2beroot ✅
 - push_swap ✅
 - Exam Rank 02 ✅
+- Python Module 00 ✅
+- Python Module 01 ✅
+- Python Module 02 ✅
+- Python Module 03 ✅
+- Python Module 04 ✅
+- Python Module 05 🚧
+- Python Module 06 🚧
+- Python Module 07 🚧
+- Python Module 08 🚧
+- Python Module 09 🚧
+- Python Module 10 🚧
 
 ## 🔊 Contacte Me!
 
