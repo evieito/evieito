@@ -65,9 +65,16 @@ Continuously developing my knowledge in the development and data analysis 🧠.
 - Python Module 05 ✅
 - Python Module 06 ✅
 - Python Module 07 ✅
-- Python Module 08 🚧
-- Python Module 09 🚧
-- Python Module 10 🚧
+- Python Module 08 ✅
+- Python Module 09 ✅
+- Python Module 10 ✅
+- A-Maze-Ing ✅
+- Exam Rank 03 ✅
+- Codexion ✅
+- Fly-In ✅
+- Call Me Maybe 🚧
+
+![stats](https://badge.mediaplus.ma/darkblue/evieito-)
 
 ## 🔊 Contacte Me!
 
