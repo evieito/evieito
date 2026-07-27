@@ -1,87 +1,86 @@
-# Hello! I'm Erick Vieito González 👋
+# Hi, I'm Erick Vieito 👋
+
+Data Science Engineering Student @ UC3M
+
+42 Madrid Student 
+
+University of Waterloo Exchange Program (2026–2027) 🇨🇦
+
+Interested in Machine Learning • Backend • Cybersecurity
 
 ## 📖 About Me
-Right now I'm studying at the University Carlos III (UC3M) in Madrid. I'm doing de Data Science Enigneering Degree 🎓. 
-Meanwhile, I recently passed the Piscine at 42 Madrid 🖥, and I'm doing the Inner Core Course, to improve in my programming abilities and to learn more languages.
-Continuously developing my knowledge in the development and data analysis 🧠.
+I'm a Data Science Engineering student at Universidad Carlos III de Madrid (UC3M) and a 42 Madrid student passionate about software engineering, machine learning and cybersecurity. I enjoy building projects that combine AI, backend development and data engineering, while continuously improving my programming and problem-solving skills. In September 2026, I will begin a one-year exchange at the University of Waterloo (Canada), where I hope to deepen my knowledge of artificial intelligence, distributed systems and large-scale software engineering.
 
 ## 🖱 Languages And Tools
 
-- Python
-- R
-- C
-- MySQL
-- MongoDB
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,r,mysql,mongodb,git,docker,linux" />
+</p>
+
+Also familiar with:
+
 - Neo4j
 - Weka
-- JFlap
+- JFLAP
 
-## 📊 Studies
+## 📊 Education
 
-- Data Science Engineering (UC3M, Leganés)
-- 42 Student (Madrid)
+### 🗂 Universidad Carlos III de Madrid 
 
-## 🗂 Data Science Egineering
+B.Sc. in Data Science Engineering
 
-### First Year ✅
-- Linear Algebra ✅
-- Calculus I ✅
-- Introduction to Data Science ✅
-- Probability and Data Analysis ✅
-- Programming ✅
-- Calculus II ✅
-- Advanced knowledge of Spreadsheets ✅
-- Computer Networks✅
-- Data Strcutures and Algorithms ✅
-- Introduction to Statistical Modeling ✅
-- Writing and communication skills ✅
-- Information skills ✅
+Expected Graduation: 2028
 
-### Second Year 🚧
-- Automata theory and compilers ✅
-- Data Base ✅
-- Discrete mathematics ✅
-- Signals and Systems ✅
-- Statistical Learning ✅
-- Data protection & cybersecurity 🚧
-- Machine learning I 🚧
-- Numerical methods 🚧
-- Predictive Modeling 🚧
-- Statistical Signal Processing 🚧
+### 💼 42 Madrid 
 
-## 💼 42 Madrid
+Common Core Student
 
-- libft ✅
-- ft_printf ✅
-- get_next_line ✅
-- born2beroot ✅
-- push_swap ✅
-- Exam Rank 02 ✅
-- Python Module 00 ✅
-- Python Module 01 ✅
-- Python Module 02 ✅
-- Python Module 03 ✅
-- Python Module 04 ✅
-- Python Module 05 ✅
-- Python Module 06 ✅
-- Python Module 07 ✅
-- Python Module 08 ✅
-- Python Module 09 ✅
-- Python Module 10 ✅
-- A-Maze-Ing ✅
-- Exam Rank 03 ✅
-- Codexion ✅
-- Fly-In ✅
-- Call Me Maybe 🚧
+#### 42 Projects 
+
+##### Core Projects 
+
+- libft
+- ft_printf
+- get_next_line
+- push_swap
+- born2beroot
+- inception
+
+##### Python Modules 
+
+Module 00–10
+
+##### Exams 
+
+- Exam Rank 02
+- Exam Rank 03
+- Exam Rank 04
+- Exam Rank 05
 
 ![stats](https://badge.mediaplus.ma/darkblue/evieito-)
 
-## 🔊 Contacte Me!
+## ⭐ Featured Projects 
 
-📩 email: vieitogonzalezerick@gmail.com
+Currently building:
+
+- Machine Learning projects
+- Backend APIs
+- Data Engineering pipelines
+
+## 🎯 Current Goals 
+
+- Complete the 42 Madrid Common Core
+- One-year exchange at the University of Waterloo (2026–2027)
+- Build high-quality Machine Learning and Backend projects
+- Preparing for Software Engineering and Machine Learning internships.
+
+## 🔊 Let's Connect! 
+
+📩 Email: vieitogonzalezerick@gmail.com 
+💼 LinkedIn: [erick-vieito](www.linkedin.com/in/erick-vieito-gonzález-a587512a1)
 
 
-➡ Always open to new opportunities!
+Always learning, building and improving.
 <!--
 **evieito/evieito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
