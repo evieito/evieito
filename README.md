@@ -81,7 +81,7 @@ Currently building:
 ## 🔊 Let's Connect! 
 
 📩 Email: vieitogonzalezerick@gmail.com 
-💼 LinkedIn: [Erick Vieito](https://www.linkedin.com/in/erick-vieito-gonzález-a587512a1/)
+💼 LinkedIn: [Erick Vieito](https://www.linkedin.com/in/erickvieito)
 
 
 Always learning, building and improving.
